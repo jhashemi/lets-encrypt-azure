@@ -5,6 +5,8 @@ on:
 
 env:
   ResourceGroup: bonus-financial-site
+  bs: test
+
 jobs:
   build:
     runs-on: ubuntu-latest
